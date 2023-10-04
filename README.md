@@ -44,3 +44,12 @@ This tutorial outlines the implementation of a virtual private network within Pr
 ![2023-10-03 (11)](https://github.com/oscarwinters/VPN/assets/146681785/e2acfcc9-f4ef-4ad8-bb00-7c53d3385c5f)
 ![image](https://github.com/oscarwinters/VPN/assets/146681785/fd2e9541-f591-4ccb-a2b8-dafff9fdebcd)
 
+With this cousre you should have a clear understanding on whata VPN is and how you can creat one using a VM, and here are a few different types of VPN's to be known of. 
+
+Here are a few different VPN to be away of 👇
+
+1.) Anoymity: when you are connected to a VPN server, and the server actual IP address is hidden, and the server's IP address is used instead. The helps to anonymize your online activities, making it more chanllenging for website and online services to track anyone loction and also their identity. 
+
+2.) Security: Vpns are usually used to more advance the security of a someone’s public Wi-Fi networks, if they connect to a public Wi-Fi hotspot using a vpn, their data is encrypted, minimizing the satay being intercepted by malicious users on the same network 
+
+3.) Privacy: VPNs is mostly used to protect your online privacy it prevents your internet service provider also known as (ISP), from your online activities to be monitored, it also helps prevent from malicious users that selling your browsing history to advertisers 
