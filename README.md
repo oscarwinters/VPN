@@ -1,4 +1,5 @@
-![image](https://github.com/oscarwinters/VPN/assets/146681785/2c29e8db-e212-4b09-bc1f-eb0fd0b2e976)
+![image](https://github.com/oscarwinters/VPN/assets/146681785/2a0e5664-0f76-424c-b7d3-0268754fcfa8)
+
  
 <h1>On-Virtual Private Network Setup And Usage (ProtonVPN)</h1>
 This tutorial outlines the implementation of a virtual private network within ProtonVpn.<br />
