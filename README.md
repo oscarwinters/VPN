@@ -1,4 +1,5 @@
-![image](https://github.com/oscarwinters/VPN/assets/146681785/2a0e5664-0f76-424c-b7d3-0268754fcfa8)
+![image](https://github.com/oscarwinters/VPN/assets/146681785/73ed9b6a-3dc8-4603-9466-f9d40f83c503)
+
 
  
 <h1>On-Virtual Private Network Setup And Usage (ProtonVPN)</h1>
