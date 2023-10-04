@@ -46,7 +46,7 @@ This tutorial outlines the implementation of a virtual private network within Pr
 
 With this cousre you should have a clear understanding on whata VPN is and how you can creat one using a VM, and here are a few different types of VPN's to be known of. 
 
-Here are a few different VPN to be away of 👇
+Here are a few different VPN to be aware of 👇
 
 1.) Anoymity: when you are connected to a VPN server, and the server actual IP address is hidden, and the server's IP address is used instead. The helps to anonymize your online activities, making it more chanllenging for website and online services to track anyone loction and also their identity. 
 
