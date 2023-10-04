@@ -23,37 +23,24 @@ This tutorial outlines the implementation of a virtual private network within Pr
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1.) Browse to the public website @(whatismyipaddress.com) to get your current IP address and notete it
+![2023-10-03 (16)](https://github.com/oscarwinters/VPN/assets/146681785/1bd79d85-5c88-420b-b9a9-c67ad9ca373c)
 
-- Step 2.) Create a VM in Azure, then connect to it with Remote Desktop protocol
+- Step 2.) Create a VM in Azure in a different country from your personal, then connect it to Remote Desktop protocol
+![2023-10-03 (9)](https://github.com/oscarwinters/VPN/assets/146681785/626f7ec7-3130-46fe-baba-7a3cee3b0749)
+![2023-10-03 (2)](https://github.com/oscarwinters/VPN/assets/146681785/a598dc8c-1ea8-4b2f-b000-62abde5a4175)
 
-- Step 3.) Once connect to Azure VM brows back to(whatismyipaddress.com) site in notete the IP address and location in text files 
 
-- Step 4.) Sign up for the free version of proton vpn in download the client and install it
+- Step 3.) Once connect to our Azure VM browse back to(whatismyipaddress.com) site in notete the IP address and location in text files 
 
-- step 5.) From within the VM you will connect to a portion vpn server in Japn, go back to the site(whatismyipaddress.com) to notete the new IP adress and loction to notice the dfferent IP to understand the fundamentals on how a VPN works  
+![image](https://github.com/oscarwinters/VPN/assets/146681785/9648dca9-6034-45a9-bbf4-059602f54f54)
 
-<h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Step 4.) Sign up for the free version of proton VPN in download the "Windows vpn client" and install it
+![image](https://github.com/oscarwinters/VPN/assets/146681785/41c92950-3b33-420c-8bc3-9b56714fe160)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/oscarwinters/VPN/assets/146681785/24f4682d-b9f7-4766-b4d6-e75327a8adca)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- step 5.) From within the VM you will connect to a portion vpn server in free trail choice (somewhere in the U.S), go back to the site(whatismyipaddress.com) inside your VM to notete the new IP adress and loction to notice the dfferent IP inside of your Azule VM to understand the fundamentals on how a VPN works and can be created in a VM  
+![2023-10-03 (11)](https://github.com/oscarwinters/VPN/assets/146681785/e2acfcc9-f4ef-4ad8-bb00-7c53d3385c5f)
+![image](https://github.com/oscarwinters/VPN/assets/146681785/fd2e9541-f591-4ccb-a2b8-dafff9fdebcd)
+
